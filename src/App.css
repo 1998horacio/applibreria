@@ -1,0 +1,32 @@
+.app-container {
+  padding-top: 20px;
+}
+
+.page-title {
+  margin-bottom: 30px;
+}
+
+.button-group {
+  margin-bottom: 20px;
+}
+
+.button-group > .MuiGrid-item {
+  margin-right: 10px; /* Espacio entre botones */
+}
+
+.form-container,
+.inventory-container,
+.sales-history-container {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.clear-button {
+  margin-top: 20px;
+}
+
+.ganancias-container {
+  margin-top: 30px;
+  text-align: center;
+}
